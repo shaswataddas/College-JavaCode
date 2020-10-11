@@ -1,4 +1,4 @@
-class sum_of_two{
+class Sum_of_two{
 	public static void main(String[] args) {
 		float a = 9;		// First number
 		float b = 20;		// Second number
